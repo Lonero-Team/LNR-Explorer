@@ -1,5 +1,5 @@
 # Lonero-Blockchain-Explorer
-Blockchain explorer for Lonero.
+Blockchain explorer for Lonero
 
 #### Installation
 
